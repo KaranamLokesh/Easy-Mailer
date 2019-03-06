@@ -3,11 +3,11 @@ A web application for sending emails for feedback from customers
 
 To use this application, you have to make some changes. Changes will be described below:
 
-clone the repository
-you first need to create a file dev.js that you will put in the config folder
-cd config
-touch keys.js
-then add the folowing content
+1. clone the repository
+2. you first need to create a file dev.js that you will put in the config folder
+3. cd config
+4. touch keys.js
+5. then add the folowing content
 
 module.exports = {
   googleClientID: '',
