@@ -1,4 +1,4 @@
-# Mail-Tunnel
+# Feedback-Tunnel
 A web application for sending emails for feedback from customers
 
 To use this application, you have to make some changes. Changes will be described below:
