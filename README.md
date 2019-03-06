@@ -31,9 +31,9 @@ You have to create these accounts and add these API keys in the dev.js file in t
 
 How to Run:
 1. Install all the dependencies: npm install
-2.npm i --save concurrently
-3.cd client
-4.npm install
+2. npm i --save concurrently
+3. cd client
+4. npm install
 5. You can launch both the servers using "npm run dev"
 6. Your application is now running.
 
